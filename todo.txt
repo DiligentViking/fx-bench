@@ -1,0 +1,54 @@
+TODO:
+
+-start the site (see ideas below and the codepen i made earlier)
+
+----------
+DESCRIPTION:
+
+-"FX Bench: Small, useful, hand-coded effects for websites."
+
+-This is a collection of (relatively) small effects for hover, click, and logos.
+
+-I've always loved button hover effects.  Ever since I was a child with semi-primitive UI's I would like to explore every little change that happened when I hovered and clicked on stuff.
+
+-I've surfed around and most collections of effects on the web have friction points.
+
+-They are largely made up of superfluously special, creative, or just very large-scale effects and animations.  Now it's impressive that those people made such wondrous displays, but it would look really wacky for actual websites to have those, except highly niche ones.
+-The best effects are clear to understand and they seem simple.  A professional favors small yet polished interactions.
+
+-They use codepen for everything.
+-Mine will be all loaded there so you don't have to scroll past codepen boxes one by one.
+
+-They don't even show the effects sometimes, forcing you to click a link instead.
+-My effects are all loaded right there for you to interact with.
+
+-They're paid.
+-Mine are open.
+
+-And I try not to have those plain strange/ugly animations that remind you of a windows-xp screen saver.
+
+----------
+IDEAS:
+
+-Target Effects:
+-An inverse of the target (that I discovered completely by accident).  Four sharp corners go inward.
+-Need to make a hovering animation loop to it.
+-And the thing where the target moves from elem to elem as you hover them.  And if you don't hover over anything for a while then it fades.
+
+-Like there is clear sections that kind of go deep dive into the variations of one.
+
+-There is a lot of room for organization.
+-And I am kind of thinking there is a looping animation (so you don't have to hover/click everything), and then you click on that and the section (which was minimized) expands.  So maybe an accordion (and supporting multiple things being open).
+
+-It starts off minimalist, but there is more UI and descriptions if you turn on a certain toggle.
+-Yeah it might be fun to see a description/history I have for each.
+
+-Of course if this is to be useful for devs, then you need a copying menu with all the good stuff like copying the html/css/js, controlling slides for the timing and amount and colors.
+
+-So perhaps showcase vs dev modes?
+
+-And maybe some sliders that control the look of all the items on the page?  Like color.
+
+-And you may need to give credit to where it is due, like the springy/squishy effect I got from nintendo's site.
+-And I don't need to credit this but I was inspired with the gradient and combo by smash bros ultimate, and the reticle by mechwarrior.
+-And perhaps credit ai?  Perhaps say that you used AI intentionally at times, but this is still hand-coded (hm tho i did copy-paste the springy effect).
